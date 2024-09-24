@@ -119,3 +119,4 @@ public class NfcWlcStateListener extends INfcWlcStateListener.Stub {
         }
     }
 }
+

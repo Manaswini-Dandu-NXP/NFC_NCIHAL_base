@@ -116,3 +116,4 @@ flag {
     description: "Enable NFC persistent log support"
     bug: "321310044"
 }
+
